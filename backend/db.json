@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Iphone 7",
+      "price": 5655.89
+    },
+    {
+      "id": 3,
+      "name": "Blyray",
+      "price": 545.89
+    }
+  ]
+}

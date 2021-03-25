@@ -1,0 +1,11 @@
+#Criar package.json
+npm init -y
+
+#Instalando json-server
+npm i json-server
+
+#Minimal cria projeto sem teste
+ng new [nome projeto] --minimal
+
+#Criar componente e bastas no path
+ng g c components/template/header
