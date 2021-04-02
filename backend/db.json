@@ -24,6 +24,11 @@
       "name": "Fernanda",
       "price": "55555",
       "id": 5
+    },
+    {
+      "name": "Gol Branco",
+      "price": "5000",
+      "id": 6
     }
   ]
 }
