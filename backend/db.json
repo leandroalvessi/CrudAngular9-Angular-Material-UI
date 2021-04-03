@@ -9,26 +9,6 @@
       "id": 2,
       "name": "Iphone 7",
       "price": 5655.89
-    },
-    {
-      "id": 3,
-      "name": "Blyray",
-      "price": 545.89
-    },
-    {
-      "name": "NoteDell",
-      "price": "2500",
-      "id": 4
-    },
-    {
-      "name": "Fernanda",
-      "price": "55555",
-      "id": 5
-    },
-    {
-      "name": "Gol Branco",
-      "price": "5000",
-      "id": 6
     }
   ]
 }
